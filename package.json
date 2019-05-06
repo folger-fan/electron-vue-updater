@@ -30,12 +30,6 @@
     "files": [
       "dist/electron/**/*"
     ],
-    "publish": [
-      {
-        "provider": "generic",
-        "url": "https://folger-1251685788.cos.ap-guangzhou.myqcloud.com/electron/ex-publish/"
-      }
-    ],
     "dmg": {
       "contents": [
         {
